@@ -16,12 +16,12 @@
 			<description>История одного дела знаменитого командора Вуда.<br/>Игра содержит откровенные сцены и не предназначена для игроков младше 18 лет.<br/>Автор: Акела<br/>Тестирование и советы: Шушкарт<br/>Иллюстрации: Gurulax</description>
 		</bibliographic>
 		<contacts>
-			<url>https://urqw.github.io/UrqW/#mary_celeste</url>
+			<url>https://urqw.github.io/UrqW/?id=mary_celeste</url>
 			<authoremail>akela88@bk.ru</authoremail>
 		</contacts>
 		<colophon>
 			<generator>UrqW Game Template</generator>
-			<originated>2025-09-25</originated>
+			<originated>2026-01-09</originated>
 		</colophon>
 	</story>
 </ifindex>
