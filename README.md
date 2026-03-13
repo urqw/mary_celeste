@@ -4,7 +4,7 @@ Text-based game "Mary Celeste" (Russian: "Мария Целеста") by Akela (
 
 The game is in Russian and developed for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#mary_celeste).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=mary_celeste).
 
 The game was first published on February 15, 2017.
 
